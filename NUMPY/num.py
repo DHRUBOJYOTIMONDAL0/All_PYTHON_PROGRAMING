@@ -44,8 +44,8 @@ import numpy as np
 # string1 = string.split(",")
 # print(string1)
 
-# s = np.arange(1, 10, 0.1)
-# print(s)
-
-s = np.linspace(1,5, 10)
+s = np.arange(1, 10, 0.1)
 print(s)
+
+# s = np.linspace(1,5, 10)
+# print(s)
